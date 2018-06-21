@@ -17,7 +17,7 @@ Desenvolver um microsserviço voltado para prover dados sobre estações de bici
 ## Escopo de projeto
 
 -   Tecnologias usadas
--   Node js
+-   Spring
 -   Docker
 -   K8s
  
