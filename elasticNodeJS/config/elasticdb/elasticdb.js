@@ -3,7 +3,7 @@ const fs = require('fs');
 const elasticsearch = require('elasticsearch');
 
 const esClient = new elasticsearch.Client({
-  host: '127.0.0.1:9200',
+  host: '201.48.15.4:31812',
   log: 'error'
 });
   
@@ -37,7 +37,7 @@ const bulkIndex = function bulkIndex(index, type, data) {
 const carga = function carga() {
 
   const reqBody = {
-    uri: 'http://localhost:9200/library/article/_search'
+    uri: 'http://201.48.15.4:31812/library/article/_search'
   }
 
   request(reqBody, (req, res) =>{
