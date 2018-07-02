@@ -1,4 +1,4 @@
-# Projeto da cadeira de Microserviços IF1001 do professor Vinicius Cardoso Garcia.
+## Projeto da Cadeira -  IF1007 - Tópicos Avançados em SI 4 - Micro Serviços do professor Vinicius Cardoso Garcia.
 
 ## Equipe:
 
@@ -12,13 +12,16 @@ João Paulo ([@JoaoPauloLins](https://github.com/JoaoPauloLins))
 
 ## Objetivo
 
-Desenvolver um microsserviço voltado para prover dados sobre estações de bicicletas na Região Metropolitana do Recife. Depois, "dockerizaremos" o serviço. Feito isso, utilizaremos algum mecanismo(eureka, k8s) para balanceamento de carga. Após, especificaremos alguma regra de negócio para escalarmos o serviço horizontalmente. Tentaremos usar o Grafana para ilustrar/monitorar o aumento do consumo de Memória ou CPU do serviço.
+Desenvolver um micro serviço voltado para prover dados sobre os Restaurantes e suas localizações na Região Metropolitana do Recife e outro micro serviço que disponibiliza vários artigos de um jornal. Depois, "dockerizaremos" o serviço. Feito isso, utilizaremos algum mecanismo k8s para balanceamento de carga. Após, especificaremos alguma regra de negócio para escalarmos o serviço horizontalmente. Tentaremos usar o Grafana para ilustrar/monitorar o aumento do consumo de Memória ou CPU do serviço.
 
 ## Escopo de projeto
 
 -   Tecnologias usadas
 -   Node js
 -   Docker
+-   kibana
+-   Elasticsearch
+-   Mongo db
 -   K8s
  
 
