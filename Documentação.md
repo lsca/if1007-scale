@@ -92,15 +92,15 @@ Foram criados scripts em shell de carga para os serviços, para executá-los rod
 
 ### Referências
 
-https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance
-https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational
-https://stackoverflow.com/questions/38549902/eureka-server-how-to-achieve-high-availability
-https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html
-https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-replication.html
-https://github.com/kubernetes-incubator/metrics-server
-https://github.com/topics/metrics
-https://github.com/topics/kubernetes
-https://github.com/topics/kubernetes-monitoring
-https://kubernetes.io/docs/tasks/tools/install-kubectl/
-https://www.elastic.co/guide/en/kibana/current/getting-started.html
-https://www.elastic.co/guide/en/kibana/current/install.html
+- https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance
+- https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational
+- https://stackoverflow.com/questions/38549902/eureka-server-how-to-achieve-high-availability
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-replication.html
+- https://github.com/kubernetes-incubator/metrics-server
+- https://github.com/topics/metrics
+- https://github.com/topics/kubernetes
+- https://github.com/topics/kubernetes-monitoring
+- https://kubernetes.io/docs/tasks/tools/install-kubectl/
+- https://www.elastic.co/guide/en/kibana/current/getting-started.html
+- https://www.elastic.co/guide/en/kibana/current/install.html
